@@ -1,0 +1,27 @@
+SUBDIRHDRS = /boot/home/config/include/python2.2 /boot/home/config/include ;
+LINKLIBS = -lpython2.2  -lbe -lroot -lnet -nodefaultlibs  ;
+LINKFLAGS = -L/boot/home/config/lib ;
+C++FLAGS = -O ;
+APPNAME = SolarWolf ;
+PYSOURCE = solarwolf.py ;
+
+actions ApplyResources
+{
+	xres -o $(1) app.rsrc
+	mimeset $(1)
+}
+
+actions Strip
+{
+	strip $(1)
+}
+
+C++FLAGS  +=  -DPYTHONMAIN='\"$(PYSOURCE)\"' ;
+
+Object $(APPNAME).o : app.cpp ;
+
+MainFromObjects $(APPNAME) :  $(APPNAME).o ;
+
+Strip $(APPNAME) ;
+
+ApplyResources $(APPNAME) ;
