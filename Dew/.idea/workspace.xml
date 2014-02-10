@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27691127-8146-41e1-b620-7cfa35172e0e" name="Default" comment="" />
-    <ignored path="ImageCrop2_6.iws" />
+    <list default="true" id="dd790d0f-bdbe-4643-a52d-52f53f3a8efe" name="Default" comment="" />
+    <ignored path="Dew.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +19,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="ImageCrop2_6" />
+    <favorites_list name="Dew" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Crop.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Crop.py">
+      <file leaf-file-name="randomart.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../random-art/randomart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="28" selection-start="708" selection-end="709" vertical-scroll-proportion="0.48513675" vertical-offset="0" max-vertical-offset="901">
+            <state line="97" column="13" selection-start="2783" selection-end="2783" vertical-scroll-proportion="0.85900474" vertical-offset="924" max-vertical-offset="1768">
               <folding>
-                <element signature="e#98#119#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crop.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ImageCrop2_6/Crop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1122">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,16 +53,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="C:/Python26/Lib/site-packages/PIL/Image.py" />
-        <option value="$PROJECT_DIR$/Crop.py" />
+        <option value="$PROJECT_DIR$/dew.py" />
+        <option value="$PROJECT_DIR$/Dew2.py" />
+        <option value="$PROJECT_DIR$/../random-art/randomart.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="20" />
+    <option name="x" value="79" />
+    <option name="y" value="56" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="1003" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -85,17 +95,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageCrop2_6" />
+              <option name="myItemId" value="Dew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageCrop2_6" />
+              <option name="myItemId" value="Dew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageCrop2_6" />
+              <option name="myItemId" value="Dew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -106,20 +116,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="fileTemplates" />
-    <property name="last_opened_file_path" value="C:/Python33/python.exe" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../random-art/randomart.py" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Crop">
-    <configuration default="false" name="Crop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.randomart">
+    <configuration default="false" name="dew" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -130,8 +140,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crop.py" />
+      <module name="Dew" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dew.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dew2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dew" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dew2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="randomart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../random-art" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dew" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../random-art/randomart.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -146,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -170,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -193,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <method />
@@ -207,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -229,7 +275,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -248,7 +294,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ImageCrop2_6" />
+      <module name="Dew" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -258,12 +304,16 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.Crop" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.dew" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Dew2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.randomart" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.Crop" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.randomart" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Dew2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dew" />
       </list>
     </recent_temporary>
   </component>
@@ -287,25 +337,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27691127-8146-41e1-b620-7cfa35172e0e" name="Default" comment="" />
-      <created>1390795962280</created>
-      <updated>1390795962280</updated>
+      <changelist id="dd790d0f-bdbe-4643-a52d-52f53f3a8efe" name="Default" comment="" />
+      <created>1391466418769</created>
+      <updated>1391466418769</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="20" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="79" y="56" width="1400" height="1003" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.71280277" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67126435" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28719723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32873562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -325,110 +375,80 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../ImageCrop2_6/Crop.py</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crop.py">
+    <entry file="file://$PROJECT_DIR$/../random-art/randomart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="87" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="901">
+        <state line="97" column="13" selection-start="2783" selection-end="2783" vertical-scroll-proportion="0.0" vertical-offset="1244" max-vertical-offset="1768">
           <folding>
-            <element signature="e#98#119#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
+    <entry file="file://$PROJECT_DIR$/../ImageCrop2_6/Crop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="0.0" vertical-offset="33864" max-vertical-offset="37247">
+        <state line="25" column="0" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1003">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
+    <entry file="file://$PROJECT_DIR$/dew.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="70" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="850">
-          <folding>
-            <element signature="e#98#119#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="15" column="0" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
       </provider>
     </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
+    <entry file="file://$PROJECT_DIR$/Dew2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="0.0" vertical-offset="33864" max-vertical-offset="37247">
+        <state line="21" column="1" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Packet Sniffer/sniffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dew2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="117" selection-start="378" selection-end="436" vertical-scroll-proportion="0.26594466" vertical-offset="0" max-vertical-offset="831" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="436" selection-end="436" vertical-scroll-proportion="0.3021327" vertical-offset="0" max-vertical-offset="844" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ImageCrop2_6/Crop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-891257481/_fileio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="72" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="850">
+        <state line="101" column="8" selection-start="3763" selection-end="3763" vertical-scroll-proportion="0.4247312" vertical-offset="1480" max-vertical-offset="2380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../random-art/randomart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="13" selection-start="2783" selection-end="2783" vertical-scroll-proportion="0.85900474" vertical-offset="924" max-vertical-offset="1768">
           <folding>
-            <element signature="e#98#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="0.0" vertical-offset="33864" max-vertical-offset="37247">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="17" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="850">
-          <folding>
-            <element signature="e#98#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="0.0" vertical-offset="33864" max-vertical-offset="37247">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="69" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <folding>
-            <element signature="e#98#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="0.0" vertical-offset="33864" max-vertical-offset="37247">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
-          <folding>
-            <element signature="e#98#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python26/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1992" column="0" selection-start="65777" selection-end="65777" vertical-scroll-proportion="-0.08085612" vertical-offset="33864" max-vertical-offset="37179">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="28" selection-start="708" selection-end="709" vertical-scroll-proportion="0.48513675" vertical-offset="0" max-vertical-offset="901">
-          <folding>
-            <element signature="e#98#119#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
