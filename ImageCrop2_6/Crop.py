@@ -53,7 +53,7 @@ print("Cropping...")
 for filename in os.listdir(path):
     _thefile = path+filename
     if _thefile.endswith(".png"):
-        #or your prefferred extension
+        #or your preferred extension
         crop1080(_thefile)
         #WARNING THIS DISCARDS THE SOURCE FILE IT IS SUGGESTED TO COPY IMAGES TO THE SOURCE FOLDER IF YOU DO NOT WISH TO LOSE THE ORIGINALS
         os.remove(_thefile)
