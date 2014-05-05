@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"UP",
+				"up"
+			],
+			[
+				"tra",
+				"Translate"
+			],
+			[
+				"time",
+				"Time"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"d",
+				"deltaTime"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"text-indent"
+			],
+			[
+				"fonta",
+				"font-family"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddint",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"rea",
+				"repeat-y"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"onmou",
+				"onmouseover	Attr"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fi",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/X/Code/Unity/Unity Projects/Pyramid/Assets/Scripts/deerscript.js",
+		"/X/Code/RegalGaming/index.html",
+		"/X/Code/Unity/Unity Projects/Pyramid/Assets/Scripts/rockscript.js",
+		"/X/Code/Unity/Unity Projects/Pyramid/Assets/Scripts/GemScript.js",
+		"/X/Code/Unity/Unity Projects/Pyramid/Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/post.php",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Products.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Studio/DSS/DSSSite/DSSSite/Products.aspx",
+		"/X/Code/Visual",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutCancel.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutComplete.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutError.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutReview.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutStart.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/Checkout/CheckoutTemplate.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/shelters.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/about.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/memoriam.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/news.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/index.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/ailments.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/productlist.html",
+		"/X/Code/Python/game/script_1.txt",
+		"/X/Code/Python/game/script_2a.txt",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutReview.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutTemplate.aspx",
+		"/X/Code/Python/game/game.py",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/chat.php",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/tmp/Master.aspx.cs",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Dashboard/EditProduct.aspx.cs",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/tmp/Master.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutCancel.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutComplete.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutError.aspx",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutReview.aspx.cs",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutComplete.aspx.cs",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutTemplate.aspx.cs",
+		"/X/Code/Visual Studio/DSS/DSSSite/DSSSite/Checkout/Studio/DSS/DSSSite/DSSSite/Checkout/CheckoutReview.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/productlist2.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/layout.css",
+		"/X/Code/Visual Studio/DSS/Site/Studio/DSS/Site/Default.aspx",
+		"/X/Code/Visual Studio/DSS/Infections/Infections/Default.aspx",
+		"/X/Code/Visual Studio/DSS/Pest Control/Pest Control/Default.aspx",
+		"/X/Code/Visual Studio/DSS/TopicalImages/TopicalImages/Default.aspx",
+		"/X/Code/Visual Studio/DSS/SupplementsImages/SupplementsImages/Default.aspx",
+		"/X/Code/Visual Studio/DSS/UrinaryDisorders/UrinaryDisorders/Default.aspx",
+		"/X/Code/Visual Studio/DSS/ColonCare/ColonCare/Default.aspx",
+		"/X/Code/Visual Studio/DSS/HomeopathicRemedies/HomeopathicRemedies/Default.aspx",
+		"/X/Code/Visual Studio/DSS/Immune Stimmulation/Immune Stimmulation/Default.aspx",
+		"/X/Code/Visual Studio/DSS/FlowerPhotoViewer1/FlowerPhotoViewer1/Default.aspx",
+		"/X/Code/Visual Studio/DSS/DietPhotoViewer/DietPhotoViewer/Default.aspx",
+		"/X/Code/Visual Studio/DSS/Calmers/Calmers/Default.aspx",
+		"/X/Code/Visual Studio/DSS/ArthriticRelief/ArthriticRelief/Default.aspx",
+		"/X/Code/Visual Studio/DSS/Antioxidants/Antioxidants/Default.aspx",
+		"/X/Code/Visual Studio/DSS/AllergyRelief/AllergyRelief/Default.aspx",
+		"/X/Code/Visual Studio/DSS/AdditionalNutrients/AdditionalNutrients/Default.aspx",
+		"/X/Code/Visual Studio/DSS/AdditionalNutrients/AdditionalNutrients/Studio/DSS/AdditionalNutrients/AdditionalNutrients/Default.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/affiliates.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/hospice.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/ailments2.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/memoriamupdate.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/productlist.html",
+		"/X/Code/Visual Studio/DSS/UrinaryDisorders/UrinaryDisorders/style.css",
+		"/X/Code/Visual Studio/DSS/FlowerPhotoViewer1/FlowerPhotoViewer1/style.css",
+		"/X/Code/Visual Studio/DSS/ColonCare/ColonCare/style.css",
+		"/X/Code/html/DSSHolisticPetRemedies/products.html",
+		"/X/Code/DisplayingImages/DisplayingImages/Handler1.ashx",
+		"/X/Code/DisplayingImages/DisplayingImages/Handler1.ashx.cs",
+		"/X/Code/DisplayingImages/DisplayingImages/Default.aspx.cs",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Diet/Web.config",
+		"/X/Code/Visual Studio/DSS/MasterPage/MasterPage/Handler1.ashx.cs",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Diet/Default.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Master/Default.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Master/Handler1.ashx",
+		"/X/Dropbox/DSSDeployment/jackedchatroom.html",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Supplements/Site.Master",
+		"/X/Code/Visual Studio/DSS/Supplements/Supplements/Site.Master",
+		"/X/Code/Visual Studio/DSS/Imagetest2/Imagetest2/Handler1.ashx.cs",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Diet/Site.Master",
+		"/X/Dropbox/productlist2.txt",
+		"/X/Dropbox/productlist1.pdf",
+		"/X/Code/Visual Studio/DSS/MasterPage/MasterPage/Studio/DSS/MasterPage/MasterPage/Web.config",
+		"/X/Code/Visual Studio/DSS/Diet/Diet/Studio/DSS/Diet/Diet/Web.config",
+		"/X/Code/Visual Studio/DSS/Supplements/Supplements/Site.Master.cs",
+		"/X/Code/Visual Studio/DSS/Supplements/Supplements/Studio/DSS/Supplements/Supplements/Site.Master",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Supplements/Default.aspx",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Supplements/Site.Mobile.Master",
+		"/X/Dropbox/DSSDeployment/DSSHolisticPetRemedies/products/Supplements/About.aspx",
+		"/X/Dogecoin/cgminer-3.7.2-windows/example.conf",
+		"/X/Code/html/DSSHolisticPetRemedies/products/productlist.html",
+		"/X/Code/html/DSSHolisticPetRemedies/products/supplementsRevised.html",
+		"/X/Code/html/DSSHolisticPetRemedies/layout.css",
+		"/X/Code/html/DSSHolisticPetRemedies/index.html",
+		"/X/Code/html/DSSHolisticPetRemedies/ailmentsRevised.html",
+		"/X/Code/html/DSSHolisticPetRemedies/products/detox.html",
+		"/X/Code/html/DSSHolisticPetRemedies/products/diet.html",
+		"/X/Code/html/DSSHolisticPetRemedies/products/supplements.html",
+		"/X/Code/html/DSSHolisticPetRemedies/memoriam.html",
+		"/X/.ssh/.config",
+		"/C/wamp/www/DSSHolisticPetRemedies/post.php",
+		"/X/Code/html/DSSHolisticPetRemedies/products/topical.html",
+		"/X/Code/html/DSSHolisticPetRemedies/products/essences.html",
+		"/X/Code/html/DSSHolisticPetRemedies/about.html",
+		"/X/Code/html/DSSHolisticPetRemedies/shelters.html",
+		"/X/Code/html/DSSHolisticPetRemedies/news.html",
+		"/X/Code/html/DSSHolisticPetRemedies/affiliates.html",
+		"/X/Code/html/DSSHolisticPetRemedies/hospice.html",
+		"/C/Program Files (x86)/MySQL/Connector NET 6.7.4/Samples/Table Editor/cs/Form1.cs",
+		"/C/Python26/Lib/site-packages/moviepy/video/io/ffmpeg_reader.py",
+		"/C/Python26/Lib/site-packages/moviepy/conf.py",
+		"/C/Users/token_000/Desktop/DotNetOpenAuth.Samples-master/README.md",
+		"/C/Users/token_000/Desktop/DotNetOpenAuth-master/README.md",
+		"/X/Dogecoin/cudaminer-2013-12-18/x64/rapidhash.bat",
+		"/X/Downloads/key",
+		"/X/Downloads/private",
+		"/X/Downloads/Wallet",
+		"/X/Downloads/Dogecoin",
+		"/X/Downloads/backup",
+		"/C/Users/token_000/Desktop/gpiotut/inout.py",
+		"/X/Code/Python/ImageCrop2_6/Crop.py",
+		"/X/Code/Python/Packet Sniffer/data.txt",
+		"/X/Code/Python/Packet Sniffer/data2.txt",
+		"/C/wamp/www/DSSHolisticPetRemedies/layout.css",
+		"/X/Code/babydonthurtme.txt",
+		"/X/Code/Python/Packet",
+		"/X/Code/Python/Packet Sniffer/Sniffer/data.txt",
+		"/C/Program Files (x86)/MySQL/Connector NET 6.7.4/README"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"../",
+			"index",
+			"=\"../",
+			"Gridview1",
+			"GridView1",
+			"choice4",
+			"readScript",
+			"src",
+			"WingtipToys",
+			"href",
+			"WingtipToys",
+			"href",
+			"homeop",
+			"capsules",
+			"=\"../",
+			"width",
+			"img",
+			"alt",
+			"img",
+			"mega pet",
+			"calen",
+			"cand",
+			"candul",
+			"msm",
+			"rejuva",
+			"$7.",
+			"yucca",
+			"burns",
+			"infections",
+			"grape see",
+			"controls inf",
+			"ocean fish",
+			"pancrea",
+			"acidi",
+			"garlic d",
+			"12.00",
+			"sulf",
+			"sulfu",
+			"S.O",
+			"sod",
+			"25.00",
+			"provides all the ",
+			"ol",
+			"ul",
+			"class=\"product\"",
+			"class",
+			"form",
+			"img",
+			"petname",
+			"petimg",
+			"class",
+			"petimg",
+			"img",
+			"type",
+			"href",
+			"div",
+			"ingr",
+			"aperture",
+			"id",
+			"id=",
+			"id",
+			"#",
+			"Slicky",
+			"img",
+			"We offer many different kinds of holistic foods and remedies",
+			"We offer",
+			"We",
+			"We offer many",
+			"We",
+			"Calmers",
+			"calmers",
+			"Calmers",
+			"calmers",
+			"Calmers",
+			"calmers",
+			"allergyrelief",
+			"liv",
+			"liv-",
+			"yeast",
+			"#18",
+			"msm",
+			"stimr",
+			"stim",
+			"liv",
+			"</",
+			"dd",
+			"class",
+			"span",
+			"b",
+			"dt",
+			"reju",
+			">\n",
+			"p",
+			"msm",
+			"product",
+			"CALCIUM",
+			"ol",
+			"productdescription",
+			"span",
+			"itching",
+			"192.168.1.126",
+			"exe",
+			"ffmpeg",
+			"FFMPEG",
+			"ffmpeg",
+			"FFMPEG",
+			"ffmpeg",
+			"FFMPEG_BINARY",
+			"index",
+			"post.",
+			"log",
+			"index",
+			"loginform",
+			"loginForm",
+			"index",
+			"img",
+			"Rosa",
+			">\n",
+			"rosa",
+			"floatright",
+			"span",
+			"100",
+			"pawprint",
+			"product",
+			"span",
+			"product",
+			"dd",
+			"kid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

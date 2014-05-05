@@ -6,7 +6,7 @@ Text based adventure game utilizing Twilio.
   Keyboard 1,2,3, for input
    Actions reflect in the story...
 """
-import twilio
+import SendMessage
 class game(object):
 
     def intro(self):
@@ -34,13 +34,6 @@ class game(object):
         self.readScript("script_2e.txt")
     def choice9(self):
         self.readScript("script_2f.txt")
-    def choice10(self):
-        self.readScript("script_3a.txt")
-    def choice11(self):
-        self.readScript("script_3b.txt")
-    def choice12(self):
-        self.readScript("script_3c.txt")
-
 
     def __init__(self):
 
@@ -56,10 +49,7 @@ class game(object):
                          '2': self.choice8,
                           '3': self.choice9
        }
-       self.choices_4 = {'1': self.choice10,
-                         '2': self.choice11,
-                          '3': self.choice12
-       }
+       
        self.run()
 
 
@@ -98,24 +88,17 @@ class game(object):
                 pass
     #Break-in
     def decision3(self):
+
         while True:
             usr_choice = input("Which choice?\n 1.)Climb Window... \n 2.) Try the airduct \n3.) Try the door")
             if usr_choice in self.choices:
                 choice = self.choices_3[usr_choice]
                 choice()
-                break
+                if usr_choice == "2":
+                    break #Break only if we are at right choice.
             else:
                 pass
     #End
-    def decision4(self):
-        while True:
-            usr_choice = input("Which choice?\n 1.)\"I hate you!\" (Punch)\n 2.) \"How......\" \n3.) ...")
-            if usr_choice in self.choices:
-                choice = self.choices_4[usr_choice]
-                choice()
-                break
-            else:
-                pass
 
     def run(self):
         self._name = input("Enter Your Name:  \n")
@@ -128,16 +111,30 @@ class game(object):
         while True:
             self._number = input("Enter Your Phone Number:  (##########)\n")
             if len(self._number) == 10:
-                _num = self._number.strip()
+                self._num = self._number.strip()
                 #Send Text Message
+                messenger = SendMessage.SendMessage()
+                messenger.setmessage(self._num, "Hello " + self._name + " I will contact you soon.")
                 break
             else:
                 pass
         ##Act 2, Car Ride
         self.Act2()
+        #Smoke
         self.decision2()
-        ##End of Act 2 Break-in
+        ##Break-in
         self.decision3()
+        ##End of Act 2
+
+        messenger.setmessage(self._num, "1876")
+        ##Send text #2.
+
+        while True:
+            self._code = input("CODE:  ")
+            if self._code == "1876":
+                break
+            else:
+                pass
         self.Act3()
         ##Act 3 End
-        self.decision4()
+        
