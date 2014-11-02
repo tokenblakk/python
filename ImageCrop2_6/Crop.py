@@ -31,13 +31,14 @@ def moveCrop(orgpath, dest):
 		counter += 1
 		os.system('cls')
 		_thefile = orgpath + filename
+		print(str(counter) + " of " + str(count))
 		print("Moving, and Cropping. File destination: " + dest)
 		if _thefile.endswith(".png"):
 			#or your preferred extension
 			moveCrop1080(_thefile, dest)
 			#WARNING THIS DISCARDS THE SOURCE FILE IT IS SUGGESTED TO COPY IMAGES TO THE SOURCE FOLDER IF YOU DO NOT WISH TO LOSE THE ORIGINALS
 			os.remove(_thefile)
-			print(str(counter) + " of " + str(count) + " images cropped and moved.")
+			#print(str(counter) + " of " + str(count) + " images cropped and moved.")
 		else:
 			skip += 1
 	print(str(counter) + " Images cropped and moved. " + str(skip) + " files skipped")
