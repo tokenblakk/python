@@ -10,8 +10,7 @@ __email__ = 'tramel.jones@gmail.com'
 from PIL import Image
 from config import *
 import os
-import logging
-logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s', level=logging.DEBUG, filename='debug.log')
+logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s', level=logLevel, filename='debug.log')
 from datetime import datetime
 global ext
 #Your preferred extension
@@ -74,7 +73,7 @@ def SuperMoveCrop1080(name, dest, x1, y1, x2, y2):
     im = Image.open(name)
     box = (x1, y1, x2, y2)
     region = im.crop(box)
-    region.save(dest + "/" + str(setTime).replace(":","_") + "_1080" + ext)
+    region.save(dest + "/" + str(setTime).replace(":","_") + "_" + str(x2) + "x" + str(y2) + ext)
 
     #region.save(path + "/Results/" +  "_".join(map(str,setTime)) + "_768" + ext)
     #for future reference use. Intended to go with time.localtime() but it overwrites files
