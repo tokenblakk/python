@@ -94,3 +94,8 @@ def SuperMoveCrop1080(name, dest, x1, y1, x2, y2):
 
 
 #sorry for not being modular. I only call the 1080 crop function because it suits my needs. Feel free to change box dimensions to whichever configurations you need. 
+if __name__ == "__main__":
+	print("Cropping.")
+	logging.info('Moving and Cropping. Origin: %s  Destination: %s', org,  dest)
+	moveCrop(org, dest, removeFile)
+	logging.info('Done.')
