@@ -1,37 +1,14 @@
-<<<<<<< HEAD
-# Python Repo #
+Python repository for personal projects.
 
-
-
-### Contact ###
-
-* Tramel Jones
-* tramel.jones@gmail.com
+Author: Tramel Jones
+Email: tramel.jones@gmail.com
 
 ============
-=======
->>>>>>> 2fd557a89e1d92151526f835dd393417628bde3a
-*ImageCrop2_6*
-============
-
-A tool I created to crop my screenshots down to 1920x1080.
-Set monitor configuration in config.py. 
-Supports up to 2 monitors with Split.py
-Supports 1 monitor with Crop.py. call CropPhotos.py for single monitor
-
-WARNING: This program removes the source image, if you intend to save the originals, it is
-recommended you copy images to the source folder.
-
-*This Setting is configurable in config.py*
-
-This program requires a source folder specified For me it is X:/Photos/Crop. Set this folder in config.py
-The processed images will be placed in a new folder called /Results in your source folder.
-
-
-This program uses Pillow, a fork of PIL
-
-Available here:
-https://github.com/python-imaging/Pillow
-
-Extract "PIL/" into your C:/Python26/Lib/site-packages/ folder  (For windows, other operating systems may vary)
-Happy Cropping/Splitting.
+Dew: Python script that sends Mtn Dew advertisement text messages
+Giffer: GUI built around moviepy's gif functionality for making dank memes
+ImageCrop2_6: Screenshot cropper for multiple monitors - uses PIL library
+Modules: assorted modules. I DO NOT OWN ANYTHING IN THIS DIRECTORY
+Packet Sniffer: Sniffs the network 
+RSSReader: Valve blog reader
+Small Time Octopus Stars: Pre-alpha game using PyGame
+game: Lead Paint - Alternative reality text based adventure game. Leverages Twilio API to send hints to player's phone
