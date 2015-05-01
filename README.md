@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Repo #
 
 
@@ -8,6 +9,8 @@
 * tramel.jones@gmail.com
 
 ============
+=======
+>>>>>>> 2fd557a89e1d92151526f835dd393417628bde3a
 *ImageCrop2_6*
 ============
 
