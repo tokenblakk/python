@@ -8,8 +8,6 @@ if  not os.path.exists(dest):
     os.mkdir(dest)
 if  not os.path.exists(org):
     os.mkdir(org)
-if  not os.path.exists(dest + "/2"):
-    os.mkdir(dest + "/2")
 
 def Split(orgpath, dest, remove = True):
     print("Splitting.")
