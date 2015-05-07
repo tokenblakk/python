@@ -1,12 +1,7 @@
 __author__ = 'Tramel Jones'
 __email__ = 'tramel.jones@gmail.com'
-#EDIT - Once 3 monitors are connected, create crop that splits each screen's resolution. 
-#PARTIALLY DONE. 2 monitor functionality finished. 
-#EDIT - Save into directory under subfolders 1/2/3.
-#PARTIALLY DONE. 2 monitor functionality finished. 
-#EDIT 4/20/2015 - Adding splitter functionality. 
-#SPLIT.PY DONE
-#2014 designed to autocrop images in my setup using Intel i7 "GLaDOS"
+#2015 designed to autocrop images in my setup using Intel i7 "GLaDOS"
+#Allows support for multiple monitors in Split.py, set monitors in config.py
 from PIL import Image
 from config import *
 import os
@@ -35,7 +30,7 @@ logging.info('Starting up.')
 #     print("Images cropped and backups deleted.")
 
 def moveCrop(orgpath, dest, remove = True):
-	#This is a fucking logging wrapper. 
+	#This is a happy logging wrapper. 
 	#The heavy lifting is done in
 	#SuperMoveCrop1080 :)
     logging.info('moveCrop started.')
@@ -93,7 +88,6 @@ def SuperMoveCrop1080(name, dest, x1, y1, x2, y2):
     #due to localtime truncating milliseconds
 
 
-#sorry for not being modular. I only call the 1080 crop function because it suits my needs. Feel free to change box dimensions to whichever configurations you need. 
 if __name__ == "__main__":
 	print("Cropping.")
 	logging.info('Moving and Cropping. Origin: %s  Destination: %s', org,  dest)
