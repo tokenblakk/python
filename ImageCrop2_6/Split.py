@@ -23,7 +23,9 @@ def Split(orgpath, dest, remove = True):
         print("Stretching apart seams. File destination: " + dest)
         if _thefile.endswith(".png"):
             #or your preferred extension  
-            xpos = 0
+            #in case xpos does not get its value reset
+            xpos = startxpos
+
             for index, monitor in enumerate(monitors):
                 print("Monitor " + str(index+1) + ": " + str(monitor[0]) + "x" + str(monitor[1]))
             for index, monitor in enumerate(monitors):

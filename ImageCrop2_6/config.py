@@ -9,6 +9,10 @@ ext = ".png"
 org = "X:/Dropbox/Screenshots/"
 dest = "X:/Photos/Crop/Results/"
 
+#my screenshots were 3 pixels undercropped for some reason -_-
+#Set to 0 if your far left monitor does actually start at 0px
+startxpos = 3
+
 #Switch on or off to remove source file after crop.
 #Useful for debugging
 #or saving precious memories
